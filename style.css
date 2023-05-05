@@ -33,7 +33,7 @@ body {
 }   
 main{
     background-color: var(--neutral-white);
-    width: 40%;
+    width: 43%;
     height: 85%;
     border-radius: 10px;
     display: flex;
